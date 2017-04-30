@@ -1,0 +1,28 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "Some NPM test.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francissalvamantePTX/npmtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Francis Vianney Salvamante <francis@promotexter.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francissalvamantePTX/npmtest/issues"
+  },
+  "homepage": "https://github.com/francissalvamantePTX/npmtest#readme"
+}
